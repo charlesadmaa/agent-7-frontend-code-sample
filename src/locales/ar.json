@@ -1,0 +1,111 @@
+{
+  "auth": {
+    "header": {
+      "login": "تسجيل الدخول",
+      "register": "إنشاء حساب مجاني",
+      "resetPassword": "إعادة تعيين كلمة المرور"
+    },
+    "field": {
+      "email": "بريدك الالكتروني",
+      "password": "كلمة السر خاصتك",
+      "newPassword": "كلمة المرور الجديدة",
+      "confirmNewPassword": "تأكيد كلمة المرور الجديدة"
+    },
+    "extras": {
+      "or": "أو",
+      "sso": {
+        "googleSso": "الدخول مع جوجل"
+      },
+      "rememberMe": "تذكرنى",
+      "forogtPassword": "هل نسيت كلمة السر؟",
+      "text": {
+        "login": "تسجيل الدخول",
+        "register": "يسجل",
+        "signUp": "اشتراك",
+        "exampleEmail": "name@company.com",
+        "passwordHelpText": " يرجى استخدام 8 أحرف على الأقل، بما في ذلك الأرقام والأحرف الكبيرة والصغيرة والأحرف الخاصة",
+        "termsAndConditionHelpText": "بالنقر على \"متابعة\"، فإنك تقوم بإنشاء حساب وتوافق على موقعنا",
+        "termsAndCondition": "الأحكام والشروط",
+        "and": "و",
+        "privacyPolicy": "سياسة الخصوصية",
+        "alreadyHaveAnAccount": "هل لديك حساب؟",
+        "restorePassword": "استعادة كلمة المرور",
+        "rememberedPassword": "أتذكر كلمة المرور الخاصة بي",
+        "changePassword": "تغيير كلمة المرور"
+      },
+      "quickLinks": {
+        "signUpLink": "لا تملك حسابا حتى الآن؟"
+      }
+    }
+  },
+  "dashboard": {
+    "header": {
+      "title": "لوحة القيادة"
+    }
+  },
+  "teamMembers": {
+    "header": {
+      "teamMembers": "أعضاء الفريق",
+      "tableTopBar": {
+        "searchName": "البحث عن أعضاء الفريق",
+        "addUser": "إضافة مستخدم",
+        "filter": {
+          "title": "منقي",
+          "fields": {
+            "title": "إخفاء الحقول",
+            "clear": "واضح",
+            "fieldsOptions": {
+              "name": "اسم",
+              "permission": "إذن",
+              "lastLogin": "آخر تسجيل دخول",
+              "memberSince": "عضو منذ"
+            }
+          }
+        }
+      }
+    },
+    "addOrEditModal": {
+      "title": "قم بدعوة جميع زملائك",
+      "description": " لأسباب أمنية، ستنتهي صلاحية الرابط خلال 5 أيام (17/03/2024) وسيتم إنشاء رابط جديد تلقائيًا.",
+      "field": {
+        "name": "اسم",
+        "email": "بريد إلكتروني"
+      },
+      "action": {
+        "edit": "يحرر",
+        "delete": "يمسح"
+      },
+      "button": {
+        "send": "إرسال دعوة عبر البريد الإلكتروني"
+      },
+      "invitationCopyLinkText": "الدعوة عن طريق الرابط",
+      "invitationCopyLinkAction": "نسخ رابط الدعوة",
+      "permission": "تغيير الإذن",
+      "edit": {
+        "title": "تحرير عضو الفريق",
+        "action": {
+          "saveChanges": "حفظ التغييرات"
+        }
+      }
+    },
+    "deleteSelectedItemModal": {
+      "title": "هل أنت متأكد أنك تريد الاستمرار في هذا الإجراء؟",
+      "action": {
+        "continue": "نعم، استمر",
+        "cancel": "لا، إلغاء"
+      }
+    }
+  },
+  "misc": {
+    "notFound": {
+      "header": {
+        "notFound": "404"
+      },
+      "text": {
+        "somthingisWrong": "هناك شئ غير صحيح",
+        "errorMessage": "عذرًا، لا يمكننا العثور على تلك الصفحة. ",
+        "backToHomepage": "العودة إلى الصفحة الرئيسية"
+      }
+    }
+  }
+}

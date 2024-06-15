@@ -1,0 +1,111 @@
+{
+    "auth": {
+        "header" : {
+            "login": "Login",
+            "register": "Create a free account",
+            "resetPassword": "Reset Password"
+        },
+        "field" : {
+            "email": "Your email",
+            "password": "Your password",
+            "newPassword": "New password",
+            "confirmNewPassword": "Confirm new password"
+        },
+        "extras" : {
+            "or": "or",
+            "sso" : {
+                "googleSso": "Signin with Google"
+            },
+            "rememberMe": "Remember me",
+            "forogtPassword": "Forgot password?",
+            "text": {
+                "login": "Login",
+                "register": "Register",    
+                "signUp": "Sign Up",    
+                "exampleEmail": "name@company.com",
+                "passwordHelpText": " Please use at least 8 characters, including numbers, uppercase and lowercase letters, special characters",
+                "termsAndConditionHelpText": "By clicking \"Continue\" you create an account and agree to our",
+                "termsAndCondition": "Terms and Conditions",
+                "and": "and",
+                "privacyPolicy": "Privacy Policy",
+                "alreadyHaveAnAccount": "Already have an account?",
+                "restorePassword": "Restore password",
+                "rememberedPassword": "I remember my Password",
+                "changePassword": "Change Password"
+            },
+            "quickLinks": {
+                "signUpLink": "Don’t have an account yet?"
+            }
+        }
+    },
+    "dashboard": {
+        "header": {
+            "title": "Dashboard"
+        }
+    },
+    "teamMembers": {
+        "header": {
+            "teamMembers": "Team Members",
+            "tableTopBar" : {
+                "searchName": "Search team members",
+                "addUser": "Add user",
+                "filter": {
+                    "title": "Filter",
+                    "fields": {
+                        "title" : "Hide Fields",
+                        "clear": "Clear",
+                        "fieldsOptions" : {
+                            "name": "Name",
+                            "permission": "Permission",
+                            "lastLogin": "Last login",
+                            "memberSince": "Member since"
+                        }
+                    }
+                }
+            }
+        },
+        "addOrEditModal": {
+            "title": "Invite all your colleagues",
+            "description": " For security reasons, the link will expire in 5 days (03/17/2024) and a new one would be automatically generated.",
+            "field" : {
+                "name": "Name",
+                "email": "Email"
+            },
+            "action": {
+                "edit": "Edit",
+                "delete": "Delete" 
+            },
+            "button": {
+                "send": "Send email invitation"
+            },
+            "invitationCopyLinkText": "Invite by link",
+            "invitationCopyLinkAction": "copy invitation link",
+            "permission": "Change permission",
+            "edit": {
+                "title": "Edit team member",
+                "action": {
+                    "saveChanges": "Save Changes"
+                }
+            }
+        },
+        "deleteSelectedItemModal": {
+            "title" : "Are you sure you want to continue with this action ?",
+            "action": {
+                "continue": "Yes, continue",
+                "cancel": "No, cancel"
+            }
+        }
+    },
+    "misc": {
+        "notFound": {
+            "header": {
+                "notFound": "404"
+            },
+            "text": {
+                "somthingisWrong": "Something is wrong",
+                "errorMessage": "Sorry, we can't find that page. You'll find lots to explore on the home page.",
+                "backToHomepage": "Back to Homepage"
+            }
+        }
+    }
+}
